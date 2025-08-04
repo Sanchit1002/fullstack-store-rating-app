@@ -8,8 +8,6 @@ A comprehensive full-stack web application for rating and managing stores with r
 ![Sign Up](https://github.com/user-attachments/assets/da416a85-2186-4acc-9122-40c4b02f7666)
 ![Sign In](https://github.com/user-attachments/assets/5b3a0e81-8b2c-4247-b065-61dca0812c1e)
 
-*Modern authentication interface with role-based access control*
-
 ### **Admin Dashboard**
 ![Admin Dashboard](https://github.com/user-attachments/assets/d10090f6-6ee4-452f-92e0-047536acfd47)
 
