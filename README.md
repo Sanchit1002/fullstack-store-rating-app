@@ -65,7 +65,6 @@ A comprehensive full-stack web application designed to streamline store manageme
 |              | Tailwind CSS       | Styling                        |
 |              | React Hook Form    | Form handling                  |
 |              | Lucide React       | Icons                          |
-
 | **Backend**  | Node.js            | Runtime environment            |
 |              | Express.js         | Web framework                  |
 |              | PostgreSQL         | Relational database            |
