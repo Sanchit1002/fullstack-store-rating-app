@@ -1,6 +1,6 @@
 # 🏪 Full Stack Store Rating App
 
-A comprehensive full-stack web application for rating and managing stores with role-based access control.
+A comprehensive full-stack web application designed to streamline store management and rating with intuitive interfaces and role-based access control for Admins and Store Owners.
 
 ## 📱 **Screenshots**
 
