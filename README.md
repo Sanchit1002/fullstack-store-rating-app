@@ -12,13 +12,10 @@ A comprehensive full-stack web application for rating and managing stores with r
 
 ### **Admin Dashboard**
 ![Admin Dashboard](https://github.com/user-attachments/assets/d10090f6-6ee4-452f-92e0-047536acfd47)
-*System overview with statistics and quick action buttons*
 
 ![Admin Dashboard (User Section)](https://github.com/user-attachments/assets/608225b6-4d0a-430b-82dd-5238e35760df)
-*System overview with statistics and quick action buttons*
 
 ![Admin Dashboard (Store Section)](https://github.com/user-attachments/assets/74f52289-5c6a-41f3-905d-b7b1c4503aa8)
-*System overview with statistics and quick action buttons*
 
 ### **Admin Manage Users**
 ![Admin Manage Users](https://github.com/user-attachments/assets/9ebdb322-80b4-4739-a75b-33ba6012e311)
