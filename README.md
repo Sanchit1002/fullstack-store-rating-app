@@ -58,22 +58,22 @@ A comprehensive full-stack web application designed to streamline store manageme
 
 ## 🛠️ **Tech Stack**
 
-### **Backend**
-- **Node.js** - Runtime environment
-- **Express.js** - Web framework
-- **PostgreSQL** - Database
-- **JWT** - Authentication
-- **bcryptjs** - Password hashing
-- **express-validator** - Input validation
-- **express-rate-limit** - Rate limiting
+| **Category** | **Technology**     | **Purpose**                    |
+| ------------ | ------------------ | ------------------------------ |
+| **Frontend** | React.js           | UI framework                   |
+|              | React Router       | Client-side routing/navigation |
+|              | Tailwind CSS       | Styling                        |
+|              | React Hook Form    | Form handling                  |
+|              | React Hot Toast    | Notifications                  |
+|              | Lucide React       | Icons                          |
+| **Backend**  | Node.js            | Runtime environment            |
+|              | Express.js         | Web framework                  |
+|              | PostgreSQL         | Relational database            |
+|              | JWT                | Authentication (token-based)   |
+|              | bcryptjs           | Password hashing               |
+|              | express-validator  | Input validation               |
+|              | express-rate-limit | API rate limiting              |
 
-### **Frontend**
-- **React.js** - UI framework
-- **React Router** - Navigation
-- **Tailwind CSS** - Styling
-- **React Hook Form** - Form handling
-- **React Hot Toast** - Notifications
-- **Lucide React** - Icons
 
 ## 🚀 **Getting Started**
 
