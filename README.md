@@ -17,19 +17,17 @@ A comprehensive full-stack web application designed to streamline store manageme
 
 ### **Admin Manage Users**
 ![Admin Manage Users](https://github.com/user-attachments/assets/9ebdb322-80b4-4739-a75b-33ba6012e311)
-*User management with search, filter, and CRUD operations*
 
 ### **Admin Manage Stores**
 ![Admin Manage Stores](https://github.com/user-attachments/assets/d33d582c-ab5c-47b1-9963-097130dc148d)
-*Store management panel with ratings and owner assignments*
 
 ### **User Dashboard**
 ![User Dashboard](https://github.com/user-attachments/assets/b3047eef-1104-4035-a37a-2949ac8c599d)
-*Store browsing with interactive ratings and search functionality*
+*User Rating History – Users can view the ratings they've previously given to stores for better tracking and engagement.*
 
 ### **Store Owner Dashboard**
 ![Store Owner Dashboard](https://github.com/user-attachments/assets/d7862fcf-a67f-4732-b588-f105862b45aa)
-*Multi-store analytics with rating insights and performance metrics*
+*Store Owner Dashboard – Enables store owners to view ratings and feedback submitted for their stores, providing valuable insights into performance and customer satisfaction.*
 
 ---
 ## 🌟 Key Highlights
