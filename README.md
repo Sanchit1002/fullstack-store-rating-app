@@ -4,7 +4,7 @@ A comprehensive full-stack web application designed to streamline store manageme
 
 ## 📱 **Screenshots**
 
-### **Sign Up and Login Page**
+### **Sign Up and Sign In Page**
 ![Sign Up](https://github.com/user-attachments/assets/da416a85-2186-4acc-9122-40c4b02f7666)
 ![Sign In](https://github.com/user-attachments/assets/5b3a0e81-8b2c-4247-b065-61dca0812c1e)
 
